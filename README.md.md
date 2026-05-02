@@ -73,19 +73,7 @@ The goal of this project is to extract meaningful insights and understand factor
 3. Import the dataset into the table
 4. Execute queries from `queries.sql`
 
-
-7. Project Structure
-
-student-performance-sql/
-│
-├── README.md
-├── schema.sql
-├── queries.sql
-├── insights.md
-└── dataset/
-    └── student-por.csv
-
-8. Key Skills Demonstrated
+7. Key Skills Demonstrated
 
 * SQL querying (SELECT, WHERE, ORDER BY)
 * Aggregation functions (AVG, COUNT)
@@ -93,11 +81,11 @@ student-performance-sql/
 * Data analysis and interpretation
 
 
-9. Conclusion
+8. Conclusion
 
 This project demonstrates how SQL can be used to analyze real-world datasets and extract actionable insights about student performance.
 
-10. Author
+9. Author
 
 K.Krishna Teja
 
